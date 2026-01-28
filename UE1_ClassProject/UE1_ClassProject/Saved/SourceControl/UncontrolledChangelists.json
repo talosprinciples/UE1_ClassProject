@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/idurham1/Downloads/UE1_ClassProject/UE1_ClassProject/UE1_ClassProject/Content/PlayerAssets/BP_CharacterFPS.uasset",
+				"C:/Users/idurham1/Downloads/UE1_ClassProject/UE1_ClassProject/UE1_ClassProject/Content/PlayerAssets/BP_CharacterBase.uasset",
+				"C:/Users/idurham1/Downloads/UE1_ClassProject/UE1_ClassProject/UE1_ClassProject/Content/Blueprints/GameModes/GM_FPS.uasset",
 				"C:/Users/idurham1/Downloads/UE1_ClassProject/UE1_ClassProject/Content/FirstPerson/Lvl_FirstPerson.umap",
 				"C:/Users/idurham1/Downloads/UE1_ClassProject/UE1_ClassProject/Content/Blueprints/GameModes/GM_FPS.uasset",
 				"C:/Users/idurham1/Downloads/UE1_ClassProject/UE1_ClassProject/Content/Blueprints/GameModes/GM_StartMenu.uasset",
